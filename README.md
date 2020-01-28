@@ -6,7 +6,7 @@ To run follow the instructions below
 ```
 npm i
 cd js
-node generator.js
+node --experimental-modules --es-module-specifier-resolution=node generator.js
 ```
 
 You are done! 👍

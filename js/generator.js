@@ -1,17 +1,13 @@
+/* eslint-disable no-unused-vars */
 /* eslint-disable no-mixed-spaces-and-tabs */
-
-const firDict = {
-	myAlph: 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789'
-};
+import {firDict,characters, charactersLength} from './hash';
 
 function passwordGenerator(length) {
-	 var result = '';
-	 var characters = firDict.myAlph;
-	 var charactersLength = characters.length;
-	 for(var i = 0; i < length; i++) {
+	var result = '';
+	
+	for (var i = 0; i < length; i++) {
 		result += characters.charAt(Math.floor(Math.random() * charactersLength));
 	}
-	 return result;
-
+	return result;
 }
-console.log(passwordGenerator(1000));
+console.log(passwordGenerator(10));
