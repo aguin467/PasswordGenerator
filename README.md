@@ -4,8 +4,6 @@
 ![License: MIT](https://img.shields.io/github/license/aguin467/passwordGenerator) 
 ![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg) 
 ![Current Issues](https://img.shields.io/github/issues/aguin467/passwordGenerator) 
-
-------------------------------------------------------------------------------------------------------------------------------------------
 [![npm][npm]][npm-url] [![eslint][eslint]][eslint-url] [![nodejs][nodejs]][nodejs-url]
 
 *Length can be changed to what ever value you want*
