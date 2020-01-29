@@ -1,6 +1,7 @@
 ## Password Generator 🎲
 
 
+![Travis Status](https://travis-ci.org/aguin467/passwordGenerator.svg?branch=master)
 ![Node.js CI](https://github.com/aguin467/passwordGenerator/workflows/Node.js%20CI/badge.svg)
 
 *Length can be changed to what ever value you want*
