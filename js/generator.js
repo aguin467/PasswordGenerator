@@ -10,4 +10,5 @@ function passwordGenerator(length) {
 	}
 	return result;
 }
-console.log(passwordGenerator(10));
+console.log(passwordGenerator(1000));
+
