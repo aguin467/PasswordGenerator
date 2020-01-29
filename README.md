@@ -4,7 +4,7 @@
 ![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg) 
 ![Current Issues](https://img.shields.io/github/issues/aguin467/passwordGenerator) 
 ![Build Dependencies](https://img.shields.io/david/dev/aguin467/passwordGenerator) 
-[![npm][npm]][npm-url] [![eslint][eslint]][eslint-url] [![nodejs][nodejs]][nodejs-url]
+[![nodejs][nodejs]][nodejs-url] [![npm][npm]][npm-url] [![eslint][eslint]][eslint-url] 
 
 *Length can be changed to what ever value you want*
 
