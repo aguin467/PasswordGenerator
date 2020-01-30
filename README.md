@@ -20,8 +20,7 @@
 To run follow the instructions below
 ```
 npm i
-cd js
-node --experimental-modules --es-module-specifier-resolution=node generator.js
+npm run generate
 ```
 
 You are done! 👍
