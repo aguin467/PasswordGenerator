@@ -1,7 +1,7 @@
 # Installation ⬇
 
 ## 🎲Password Generator 
-![Node.js CI](https://github.com/aguin467/passwordGenerator/workflows/Node.js%20CI/badge.svg) ![Travis Status](https://travis-ci.org/aguin467/passwordGenerator.svg?branch=master) 
+![Node.js CI](https://github.com/aguin467/PasswordGenerator/workflows/Node.js%20CI/badge.svg) ![Travis Status](https://travis-ci.org/aguin467/passwordGenerator.svg?branch=master) 
 
 ![License: MIT](https://img.shields.io/github/license/aguin467/passwordGenerator) 
 ![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg) 
