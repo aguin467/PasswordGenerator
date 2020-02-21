@@ -6,7 +6,7 @@
 ![License: MIT](https://img.shields.io/github/license/aguin467/passwordGenerator) 
 ![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg) 
 ![Current Issues](https://img.shields.io/github/issues/aguin467/passwordGenerator) 
-![Build Dependencies](https://img.shields.io/david/dev/aguin467/passwordGenerator) 
+![Build Dependencies](https://img.shields.io/david/dev/aguin467/PasswordGenerator) 
 [![nodejs][nodejs]][nodejs-url] [![npm][npm]][npm-url] [![eslint][eslint]][eslint-url] 
 
 [npm]: https://img.shields.io/badge/npm-6.13.7-brightgreen
