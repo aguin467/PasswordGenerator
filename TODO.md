@@ -1,7 +1,7 @@
 # Todo List 📝
 
-- [x] ~~~Webpack Config File~~~ 📁
-- [ ] Webpack Prod File 📂
-- [ ] Styling 👗
-- [ ] HTML5 buttons 🔘
-- [ ] Log generator output ⏩
+- [x] ~~Lint config files~~ 🚨
+- [x] ~~Webpack config file~~ 📁
+- [ ] Styling 💄
+- [x] ~~HTML5 buttons~~ 🔘
+- [x] ~~Log generator output~~ ⏩

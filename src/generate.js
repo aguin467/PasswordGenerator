@@ -10,10 +10,6 @@ var charactersLength = characters.length;
 let hash = crypto.getHashes();
 let hashPwd = crypto.createHash('sha1').update(characters).digest('hex');
 
-export {firDict, characters, charactersLength};
-
-
-
 function passwordGenerator(length) {
     var result = '';
 	
@@ -22,5 +18,12 @@ function passwordGenerator(length) {
     }
     return result;
 }
+
+document.getElementById('btn').addEventListener('click', function() {
+    document.getElementById('myGen').innerHTML = passwordGenerator(100);
+});
 console.log(passwordGenerator(1000));
 
+window.passwordGenerator = passwordGenerator;
+
+export default { passwordGenerator };

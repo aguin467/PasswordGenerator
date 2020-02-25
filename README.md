@@ -24,7 +24,12 @@
 npm i
 ```
 
+## To Build Run
+```
+npm run build
+```
+
 ## To Start Run 🏁
 ```
-npm run start
+npm run dev
 ```
